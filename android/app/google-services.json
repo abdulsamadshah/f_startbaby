@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989572332852",
+    "project_id": "starbaby-1c790",
+    "storage_bucket": "starbaby-1c790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989572332852:android:92b392f7533d8a27e67961",
+        "android_client_info": {
+          "package_name": "com.example.f_startbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989572332852-g1t822oiaj4ludp3vgs72v0bhn2gset8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9IBMxYVh3XHw3kalZpTkwOCv5IkU0gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989572332852-g1t822oiaj4ludp3vgs72v0bhn2gset8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
